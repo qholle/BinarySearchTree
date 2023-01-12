@@ -1,19 +1,3 @@
-//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
-//
-// Title: Movie Catalog
-// Course: CS 300 Spring 2021
-//
-// Author: Quentin Holle
-// Email: qholle@wisc.edu
-// Lecturer: Hobbes LeGault
-//
-///////////////////////// ALWAYS CREDIT OUTSIDE HELP //////////////////////////
-//
-// Persons: Sai Chaparala (my roommate) helped me fix a minor issue with my add method
-// Online Sources: NONE
-//
-///////////////////////////////////////////////////////////////////////////////
-
 import java.util.ArrayList;
 import java.util.NoSuchElementException;
 

@@ -1,4 +1,3 @@
-
 /**
  * This class models a movie
  * 
